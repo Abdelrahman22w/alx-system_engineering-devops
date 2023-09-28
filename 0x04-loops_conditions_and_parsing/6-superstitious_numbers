@@ -24,6 +24,5 @@ do
         echo $i
         ;;
     esac
-
     let i+=1
 done
