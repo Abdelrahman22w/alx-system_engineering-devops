@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 times
+# This script is displaying "BEst School" 10 times
 i=10
 until [  $i -lt 1 ]; do
 echo "Best School"
