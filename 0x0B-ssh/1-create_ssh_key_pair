@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# creates an RSA key pair 4096 protected by betty
+ssh-keygen -t rsa -b 4096 -P betty -f school
